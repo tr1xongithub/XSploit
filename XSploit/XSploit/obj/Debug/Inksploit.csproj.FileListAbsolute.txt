@@ -1,0 +1,13 @@
+C:\Users\frank\source\repos\Inksploit\Inksploit\bin\Debug\Inksploit.exe.config
+C:\Users\frank\source\repos\Inksploit\Inksploit\bin\Debug\Inksploit.exe
+C:\Users\frank\source\repos\Inksploit\Inksploit\bin\Debug\Inksploit.pdb
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.Form1.resources
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.Properties.Resources.resources
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.csproj.GenerateResource.cache
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.exe
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.pdb
+C:\Users\frank\source\repos\Inksploit\Inksploit\bin\Debug\Guna.UI2.dll
+C:\Users\frank\source\repos\Inksploit\Inksploit\obj\Debug\Inksploit.csproj.CopyComplete
